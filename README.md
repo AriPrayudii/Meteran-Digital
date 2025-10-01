@@ -41,11 +41,30 @@ Alat ini dapat menghitung jarak berdasarkan putaran roda berlubang dan menampilk
 ---
 
 ## 📊 Skematik dan Desain
-- Skematik Rangkaian Elektronika  
-- Skematik PCB  
-- Tampilan Atas PCB  
-- Tampilan Bawah PCB  
+- Skematik Rangkaian Elektronika
+      
+  <img src="images/Rangkaian.jpg" alt="Rangkaian" width="400">
 
+  <img src="images/schematic.jpg" alt="schematic" width="400">
+  
+- Skematik PCB
+    
+  <img src="images/Schematic Atas.png" alt="Schematic Atas" width="400">
+  
+  <img src="images/Schematic Bawah.png" alt="Schematic Bawah" width="400">
+  
+- Tampilan Atas PCB
+  
+  <img src="images/3D Atas.png" alt="3D Atas" width="400">
+  
+  <img src="images/Hasil Atas.png" alt="Hasil Atas" width="400">
+  
+- Tampilan Bawah PCB  
+  
+  <img src="images/3D Bawah.png" alt="3D Bawah" width="400">
+  
+  <img src="images/Hasil Bawah.png" alt="Hasil Bawah" width="400">
+  
 ---
 
 ## 🚀 Cara Kerja
@@ -58,7 +77,7 @@ Alat ini dapat menghitung jarak berdasarkan putaran roda berlubang dan menampilk
 ---
 
 ## 📷 Dokumentasi
-(Tambahkan gambar rangkaian, PCB, dan hasil percobaan di sini)
+
 
 ---
 
